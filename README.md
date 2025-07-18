@@ -1,8 +1,7 @@
 
 
 # Treinamentos e Materiais de Estudo - ScalaTec
-
-## Treinamentos:
+### 2025:
 - **Git & Github:** [Clique para abrir o material](https://github.com/ScalaTec/Treinamentos/git-e-github)
 
 
