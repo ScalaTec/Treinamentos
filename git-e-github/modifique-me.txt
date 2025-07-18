@@ -1,0 +1,5 @@
+Complete a frase:
+
+A ScalaTec é ____________.
+
+Salve e Commite!
