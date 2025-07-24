@@ -1,5 +1,5 @@
 Complete a frase:
 
-A ScalaTec é ____________.
+A ScalaTec é braba.
 
 Salve e Commite!
